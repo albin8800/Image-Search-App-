@@ -13,7 +13,7 @@ Clone this repository to your local machine using Git:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/image-search.git
+git clone https://github.com/albin8800/image-search.git
 Open the project folder in your code editor.
 
 You can now open index.html in any browser to view the project locally.
